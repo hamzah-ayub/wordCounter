@@ -4,6 +4,7 @@
   "description": "CLI based application for counting words in a string while ignoring any whitespaces in the process. The code is written in Typescript.",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

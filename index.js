@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 const data = await inquirer.prompt([
     { message: "Enter string to count words: ",
